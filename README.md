@@ -1,4 +1,4 @@
-# interfaz-busqueda-ordenacion 
+# Trabajo con interfaces para la búsqueda y ordenacion 
 
 ## PRÁCTICA OPCIONAL. INTERFACES COMPARABLE Y COMPARATOR
 
