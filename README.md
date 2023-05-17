@@ -1,6 +1,6 @@
 # Trabajo con interfaces para la búsqueda y ordenacion 
 
-## PRÁCTICA OPCIONAL. INTERFACES COMPARABLE Y COMPARATOR
+## PRACTICA OPCIONAL. INTERFACES COMPARABLE Y COMPARATOR
 
 Para aplicar los conocimientos vistos en clase. Se pide:
 
