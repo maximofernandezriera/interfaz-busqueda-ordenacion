@@ -13,4 +13,4 @@ Deberéis desarrollar los siguientes requisitos:
 
 Además, se te solicita realizar una búsqueda en la lista de productos por código. Deberás buscar un producto en la lista según su código y mostrar el resultado de la búsqueda.
 
-Finalmente  verifica su correcto funcionamiento mediante un programa principal.
+Finalmente,  verifica su correcto funcionamiento mediante un programa principal.
