@@ -8,9 +8,9 @@ Para aplicar los conocimientos vistos en clase. Se pide:
 
 Deberéis desarrollar los siguientes requisitos:
 
-- Ordenar la lista de productos por precio de forma descendente.
-- Imprimir la lista de productos ordenada por precio.
-- 
+1. Ordenar la lista de productos por precio de forma descendente.
+2. Imprimir la lista de productos ordenada por precio.
+
 Además, se te solicita realizar una búsqueda en la lista de productos por código. Deberás buscar un producto en la lista según su código y mostrar el resultado de la búsqueda.
 
 Finalmente  verifica su correcto funcionamiento mediante un programa principal.
